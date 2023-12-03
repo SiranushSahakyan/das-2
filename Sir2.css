@@ -181,6 +181,7 @@ header{
     line-height: 26px;
     flex-direction: column;
     margin-top: 45px;
+  gap: 20px;
 }
 .instagram img{
 top: 1190px;
@@ -240,12 +241,12 @@ color: #0D161A;
 
 
 
+
 .twitter{
     display: flex;
     flex-direction: column;
     line-height: 26px;
     margin-top: 45px;
-
 }
 .twitter_logo{
     width: 61.54px;
@@ -253,12 +254,14 @@ height: 50px;
 top: 1296px;
 left: 59.73px;
 
+
 }
 .twilink{
     width: 474px;
 height: 78px;
 top: 1279px;
 left: 59.73px;
+
 
 }
 .slaq2{
